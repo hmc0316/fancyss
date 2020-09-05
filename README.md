@@ -1,3 +1,12 @@
+
+#20200905 實作
+
+由於用花生壳的原因,所以不能webtelnet,改用系統工具打開ssh後,再用花生壳的方式映射回去,結果可以更新!!
+
+筆記,盼幫助到大家!!
+
+
+
 # [fancyss - 科学上网](https://hq450.github.io/fancyss/)
 
 > Fancyss is a project providing tools to across the GFW on asuswrt/merlin/openwrt based router with software center. 
